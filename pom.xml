@@ -16,7 +16,7 @@
         <project.build.uriEncoding>UTF-8</project.build.uriEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <httpclient.version>4.5.10</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <slf4j.version>1.7.30</slf4j.version>
         <log4j.version>2.11.2</log4j.version>
         <telegrambots.version>4.7</telegrambots.version>
